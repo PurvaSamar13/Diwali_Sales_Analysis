@@ -37,4 +37,5 @@ Clone this repository:
 git clone https://github.com/PurvaSamar13/Kharcha-ProMax.git
 
 Open the Power BI file (Sales.pbix) using Power BI Desktop.
+
 Review the data model, visualizations, and insights provided in the dashboard.
