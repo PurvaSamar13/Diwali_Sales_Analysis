@@ -1,4 +1,4 @@
-# Kharcha-ProMax
+# Diwali Sales Analysis
 # Data Sources
 The primary dataset used is Diwali Sales Data.csv, which contains:
 Orders,
